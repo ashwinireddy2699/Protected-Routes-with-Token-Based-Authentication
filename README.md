@@ -17,12 +17,16 @@ If you are developing a production application, we recommend using TypeScript wi
    ```bash
    git clone https://github.com/your-username/your-repo.git
 2.Navigate to the project directory:
+  ```bash
   cd your-repo
 3.Install dependencies:
+  ```bash
   npm install
 4.Start the development server:
+  ```bash
   npm run dev
 5.Open your browser and go to:
+   ```bash
   http://localhost:5173
 
 ## Login Credentials
