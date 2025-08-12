@@ -19,19 +19,19 @@ If you are developing a production application, we recommend using TypeScript wi
    
 2.Navigate to the project directory:
 
-  cd your-repo
+     cd your-repo
 
 3.Install dependencies:
   
-  npm install
+     npm install
 
 4.Start the development server:
 
-  npm run dev
+     npm run dev
 
 5.Open your browser and go to:
 
-  http://localhost:5173
+     http://localhost:5173
 
 ## Login Credentials
  
