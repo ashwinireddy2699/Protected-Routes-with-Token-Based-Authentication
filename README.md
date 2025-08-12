@@ -10,3 +10,38 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## How to Run the Project
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/your-repo.git
+2.Navigate to the project directory:
+  cd your-repo
+3.Install dependencies:
+  npm install
+4.Start the development server:
+  npm run dev
+5.Open your browser and go to:
+  http://localhost:5173
+
+## Login Credentials
+ 
+Username: ashwini
+
+Password: Ashwini@99
+
+## Technologies used
+
+React – Frontend library
+
+Vite – Build tool for fast development
+
+JavaScript (ES6+)
+
+CSS – Styling
+
+ESLint – Code linting
+
+Babel / SWC – JavaScript compiler for Fast Refresh
+
