@@ -1,0 +1,21 @@
+.nav{
+    position: sticky;
+    width: 100%;
+    height: 10%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    box-sizing: border-box;
+    background-color: #eae6dc;
+    font-size: medium;
+    font-weight: 600;
+   
+}
+.pages{
+    display: flex;
+    gap: 2rem;
+
+}
+.logout{
+    cursor: pointer;
+}
